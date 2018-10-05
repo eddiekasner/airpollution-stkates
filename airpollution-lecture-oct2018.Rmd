@@ -1,0 +1,335 @@
+---
+title: 'Air Pollution and Public Health'
+author: 'Guest Lecture: Eddie Kasner'
+date: 'October 8, 2018'
+output:
+  beamer_presentation:
+    fig_caption: no
+  slidy_presentation:
+    keep_md: yes
+  ioslides_presentation: default
+subtitle: St. Catherine University
+incremental: no
+urlcolor: blue
+---
+
+Overview
+========================================================
+1. Air pollution sources and receptors
+2. Historic urban air quality events 
+    + Meuse Valley, Belgium \hfill (1930)
+    + Donora, Pennsylvania  \hfill (1948)
+    + Great Smog of London  \hfill (1952)
+    + Los Angeles and Clean Air Act \hfill (1970)
+    + Beijing "Airpocalypse" \hfill (2014)
+3. Ongoing rural air quality events
+    + Pesticide drift \hfill (Ongoing)
+    + Wildfire smoke \hfill (Ongoing)
+4. Air pollution studies
+5. Government and policy
+6. Citizen science examples
+
+Sources and Receptors
+========================================================
+\vspace{5mm}
+
+![](~/airpollution-stkates/images/sources-receptors.PNG)
+
+\begin{center}
+\fontsize{5pt}{5}\selectfont
+Massachusetts Evironmental Public Health Tracking. Exposures. 
+https://matracking.ehs.state.ma.us/Environmental-Data/exposures/index.html
+\end{center}
+
+Air Pollution Sources
+========================================================
+\vspace{5mm}
+
+![](~/airpollution-stkates/images/sources-of-air-pollution.jpg)
+
+\begin{center}
+\fontsize{5pt}{5}\selectfont
+Scotland's Environment. Air quality. 
+https://www.environment.gov.scot/our-environment/air/air-quality/
+\end{center}
+
+Sources, Pollutants, and Receptors
+========================================================
++ Sources
+    + Natural: volcanic eruptions, wildfires, allergens
+    + Human: energy use, agriculture
++ Pollutants
+    + Primary: hazardous substance emitted directly into atmosphere 
+        + CO, NO~x~, SO~2~, PM, NH~3~, VOCs, Pb
+    + Secondary: hazardous substance formed after reacting with something in atmosphere
+        + SO~3~, HNO~3~, H~2~SO~4~, H~2~O~2~, NH~4~, O~3~, PM, HF
++ Receptors
+    + Humans
+    + Animals
+
+Meuse Valley Fog, Belgium (1930)
+========================================================
+\begin{center}
+\includegraphics{~/airpollution-stkates/images/meusemap}
+  
+\fontsize{5pt}{5}\selectfont
+Nemery et al. 2001. The Meuse Valley fog of 1930: an air pollution disaster. 
+The Lancet 357(9257): 704-708.
+\end{center}
+
+Meuse Valley Fog, Belgium (1930)
+========================================================
++ Source
+    + HF from the nearby zinc, glass, and steel factories
+    + Inversion: warm air trapped cool air above town (5 days in Dec)
++ Receptors
+    + Asthma-like symptoms: shortness of breath, coughing fits
+    + Estimated 60 excess deaths (20-89 years old)
++ Impacts
+    + Interviewed family physicians and patients days after smog
+    + Spatiotemporal distribution of patients not well understood
+    + First proof of link between air pollution and morbidity/mortality
+    + Demonstrated role of temperature inversions
+    + "An unavoidable consequence of prosperity"
+
+Temperature Inversion
+========================================================
+\begin{center}
+\includegraphics{~/airpollution-stkates/images/inversion.PNG}
+  
+\fontsize{5pt}{5}\selectfont
+Understory captures evidence of temperature inversion in Kansas City. http://understoryweather.com/understory-captures-evidence-of-temperature-inversion-in-kansas-city/
+\end{center}
+
+Donora, Pennsylvania Smog (1948)
+========================================================
+\begin{center}
+\includegraphics{~/airpollution-stkates/images/donora.jpg}
+
+\fontsize{5pt}{5}\selectfont
+Donora Historical Society and Smog Museum. 
+https://www.sites.google.com/site/donorahistoricalsociety/1948-smog
+\end{center}
+
+Donora, Pennsylvania Smog (1948)
+========================================================
++ Source
+    + H~2~SO~4~, NO~2~,  and HF from steel and zinc factories
+    + Temperature inversion (5 days in Oct)
++ Receptors
+    + About 14,000 residents trapped under thick layer of smog
+    + Nearly 7,000 experienced respiratory or cardiovascular issues
+    + Estimated 20 excess deaths
++ Impacts
+    + Widely publicized around world and people acted
+    + Scientists began studying link between air pollution and health
+    + ["Smog Museum"](https://www.c-span.org/video/?321395-1/discussion-1948-donora-air-quality-crisis): 70th anniversary events this month
+
+Great Smog of London (1952)
+========================================================
+\begin{center}
+\includegraphics{~/airpollution-stkates/images/londonfog.jpg}
+  
+\fontsize{5pt}{5}\selectfont
+A tugboat on the Thames near Tower Bridge in heavy smog, 1952. Fox Photos—Getty Images. https://timedotcom.files.wordpress.com/2016/11/london-fog.jpg
+\end{center}
+
+Great Smog of London (1952)
+========================================================
++ Sources
+    + Cold weather led residents to burn extra coal [SO~2~] to stay warm
+    + Inversion: 30-mile stagnant air mass (5 days in Dec)
++ Receptors
+    + About 100,000 residents felt ill with respiratory symptoms
+    + Estimated 4,000-12,000 excess deaths (e.g. hypoxia resulting from obstruction of air passage by lung infection pus)
++ Impact
+    + Especially bad "pea-souper" as seen on TV (e.g. *The Crown*)
+    + Led to UK Clean Air Act of 1956 (and 1970 in US)
+    + "Landmark in air pollution epidemiology because of the scale of the disaster and because it allowed researchers to do the first detailed analysis of the relation between levels of air pollutants and increased morbidity and mortality" [(Nemery et al. 2001)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(00)04135-0/fulltext).
+
+Los Angeles Smog (1954)
+========================================================
+\begin{center}
+\includegraphics{~/airpollution-stkates/images/LA-smog-masks.jpg}
+
+\fontsize{5pt}{5}\selectfont
+Highland Park Optimist Club wearing smog-gas masks at banquet, Los Angeles, c. 1954. UCLA Library.
+\end{center} 
+
+Los Angeles Smog and Clean Air Act (1970)
+========================================================
+\begin{center}
+\includegraphics{~/airpollution-stkates/images/lasmog1.jpg}
+
+\fontsize{5pt}{5}\selectfont
+Photochemical smog in Los Angeles. Getty images.
+\end{center}
+
+Los Angeles Smog and Clean Air Act (1970)
+========================================================
++ Source
+    + 1,000,000+ vehicles on LA roads by 1940
+    + VOC emissions + sunlight + NO~x~ -> O~3~ (photochemical smog)
+    + LA is natural trap for smog accumulation
+        + Geography: flat basin between ocean and mountains
+        + Weather patterns: cold ocean current creates inversions
++ Receptors
+    + Respiratory and cardiovascular effects among residents
+    + Crude resipiratory mortality rate was 50.8 per 100,000 in 1961 [(Mahoney 1976)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1130478/?page=3). 
++ Impact
+    + Clean Air Act of 1970 set federal and state regulations to limit stationary and mobile source emissions
+    + Current O~3~ levels in LA just 40% of mid-1970s levels despite more than twice the number of cars
+
+Beijing "Airpocalypse" (2014)
+========================================================
+\begin{center}
+\includegraphics{~/airpollution-stkates/images/beijing-smog-split-screen-horizontal-large-gallery.png}
+
+\fontsize{5pt}{5}\selectfont
+Beijing smog vs. no smog. 2014. Getty Images.
+\end{center}
+
+Beijing "Airpocalypse" (2014)
+========================================================
++ Source
+    + PM from burning coal for heat in winter and vehicle traffic
+    + Like LA, Beijing in "natural bowl" with temperature inversions
++ Receptors
+    + Respiratory and cardiovascular effects among residents
+    + [Air Quality Index](https://en.wikipedia.org/wiki/Air_quality_index) can reach >201 [heavily or severely polluted]
++ Impact
+    + Chinese government uses stricter regulations and cleaner fuels
+    + US Embassy posts automated air quality @beijingair
+
+Deaths Attributable to Ambient Air Pollution, 2016
+========================================================
+
+![](~/airpollution-stkates/images/airpollution-deaths-2016.PNG)
+
+\fontsize{5pt}{5}\selectfont
+World Health Organization. Deaths per 100,000 Attributable to Ambient Air Pollution. http://www.who.int/gho/phe/outdoor_air_pollution/burden/en/
+
+Washington Pesticide Drift "Newsfeed"
+========================================================
+
+\includegraphics{~/airpollution-stkates/images/driftnewsfeed.JPG}
+
+Pesticide Drift Definition
+===========================================================
+
++ Primary drift: off-target movement during application
+    + "Spray drift"
+    + Regulatory
+    + Method, meteorology, canopy, droplet size, human activity
++ Secondary drift: off-target movement after application
+    + Non-regulatory
+    + Temperature, volatility, wind, particle size, human activity
+
+\begin{center}
+\includegraphics[height=5cm]{~/airpollution-stkates/images/driftdefinition.JPG}
+\end{center}
+
+Pesticide Drift (Ongoing)
+========================================================
++ Source
+    + Pesticide applications (aerial and ground applications)
++ Receptors
+    + Farmworkers (particularly in orchards)
+    + Rural community residents
++ Impact
+    + [WA DOH Pesticide Illness Surveillance Program](https://www.doh.wa.gov/AboutUs/ProgramsandServices/EnvironmentalPublicHealth/EnvironmentalPublicHealthSciences/Pesticides) has tracked drift cases for 20+ years and makes [data publicly available](https://fortress.wa.gov/doh/wtn/WTNPortal/#!q0=645)
+    + Stakeholder workgroups and rulemaking
+
+West Coast Wildfires
+========================================================
+\begin{center}
+\includegraphics{~/airpollution-stkates/images/PNWfires.jpg}
+
+\fontsize{5pt}{5}\selectfont
+Smoke and wildfires in western U.S. 
+https://www.nasa.gov/image-feature/goddard/2017/smoke-and-fires-light-up-pacific-northwest
+
+\end{center}
+
+West Coast Wildfires (Ongoing)
+========================================================
++ Source
+    + Dry conditions starting wildfires in rural areas
++ Receptors
+    + Rural and urban communities (West Coast)
++ Impact
+    + Seattle's air quality lower than Beijing's for most of August 2018
+    + [Indoor Air Quality & "DIY" HEPA Filter](https://github.com/eddiekasner/seattle-airpocalypse/blob/master/seattle-airpocalypse.pdf)
+
+\begin{center}
+
+\includegraphics[height=4cm]{~/airpollution-stkates/images/homefire.jpg}
+
+\fontsize{5pt}{5}\selectfont
+Los Angeles Times. EPA. 2018. 
+
+\end{center}
+
+"DIY" HEPA Filter During Wildfire Smoke Events
+========================================================
+\begin{center}
+\includegraphics[height=4cm]{~/airpollution-stkates/images/fanfilter.JPG}
+
+\includegraphics[height=3cm]{~/airpollution-stkates/images/dylos.jpg}
+
+\fontsize{5pt}{5}\selectfont
+DIY HEPA (High Efficiency Particulate Air) Filter
+https://www.pscleanair.org/525/DIY-Air-Filter
+\end{center}
+
+Citizen Science
+========================================================
++ "Research conducted in whole or part by amateur scientists"
++ "Public participation in scientific research"
++ "Citizen science...may yield better knowledge, empowered communities, and improved community health" [(Broeder et al. 2016)](https://academic.oup.com/heapro/article/33/3/505/2623361).
+
++ Examples:
+    + [Purple Air Monitors](https://www.purpleair.com/map#4/39.19/-96.77)
+    + [Imperial County Community Air Monitoring Network](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5744720/)
+
+Air Pollution Studies
+========================================================
+1. [Harvard "Six Cities" Study](https://www.nejm.org/doi/full/10.1056/NEJM199312093292401)
+2. [Multi-Ethnic Study of Atherosclerosis (MESA) Study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2816%2900378-0/fulltext)
+3. [University of Washington DEOHS - NAAQs Pollutants](https://deohs.washington.edu/clean-air-0)
+4. [University of Washington PNASH - Pesticide Drift](https://deohs.washington.edu/pnash/pnash/risk_reduction_new_tech)
+4. City of Minneapolis Air Quality Studies: 
+    + [VOC in 2015](http://www.minneapolismn.gov/environment/air/airquality_index)
+    + [PM in 2017](http://www.minneapolismn.gov/environment/air/WCMSP-205291)
+    
+5. Health effects commonly studied
+    + Mortality
+    + Respiratory infection/lung cancer
+    + Cardiovascular disease/stroke/COPD
+    + Dementia
+
+Government and Policy
+========================================================
+1. Clean Air Act (1956-UK; 1970-USA)
+2. National Ambient Air Quality Standards (NAAQS)
+    + CO, Pb, NO~2~, O~3~, PM~10~, PM~2.5~, SO~2~
+3. Air quality modeling
+    + [Dispersion modeling](https://www.epa.gov/scram/air-quality-dispersion-modeling-preferred-and-recommended-models)
+    + [Receptor modeling](https://www.epa.gov/scram/air-pollutant-receptor-modeling)
+    + [Minnesota Pollution Control Agency Air Monitoring](https://www.pca.state.mn.us/air)
+4. US EPA Worker Protection Standard and pesticide drift
+    + Pesticide labels require that applications happen under certain conditions (e.g. wind, temperature)
+    + [Application Exclusion Zone](https://www.epa.gov/pesticide-worker-safety/worker-protection-standard-and-application-exclusion-zone-frequently-asked): buffer to protect workers
+
+References
+========================================================
+\fontsize{10pt}{7.2}\selectfont
+
+1. [History of Air Pollution Legislation in the United States (1982)](https://www.tandfonline.com/doi/pdf/10.1080/00022470.1982.10465369)
+2. [The Meuse Valley fog of 1930: an air pollution disaster (1991)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(00)04135-0/fulltext)
+3. [An Association Between Air Pollution and Mortality in Six U.S. Cities (1993)](https://www.nejm.org/doi/full/10.1056/NEJM199312093292401)
+4. [Air Pollution and Mortality: A History (2009)](https://www.sciencedirect.com/science/article/pii/S1352231008008558)
+5. [Health Effects of Fine Particulate Air Pollution: Lines that Connect (2012)](https://www.tandfonline.com/doi/abs/10.1080/10473289.2006.10464485)
+6. [Fluoride Pollution of Atmospheric Precipitation and Its Relationship with Air Circulation and Weather Patterns (Wielkopolski National Park, Poland)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3667360/)
+7. [Exposure Assessment for Estimation of the Global Burden of Disease Attributable to Outdoor Air Pollution](https://pubs.acs.org/doi/abs/10.1021/es2025752)
+8. [Association Between Air Pollution and Coronary Artery Calcification within Six metropolitan Areas in the USA (The Multi-Ethnic Study of Atherosclerosis and Air Pollution): A Longitudinal Cohort Study (2016)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)00378-0/fulltext)
