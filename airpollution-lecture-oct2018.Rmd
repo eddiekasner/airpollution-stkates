@@ -15,19 +15,20 @@ urlcolor: blue
 
 Overview
 ========================================================
-1. Air pollution sources and receptors
+1. Air pollution sources, exposure routes and pathways
 2. Historic urban air quality events 
+    + Early civilization, fire and chimney, Middle Ages
     + Meuse Valley, Belgium \hfill (1930)
     + Donora, Pennsylvania  \hfill (1948)
     + Great Smog of London  \hfill (1952)
     + Los Angeles and Clean Air Act \hfill (1970)
     + Beijing "Airpocalypse" \hfill (2014)
 3. Ongoing rural air quality events
-    + Pesticide drift \hfill (Ongoing)
-    + Wildfire smoke \hfill (Ongoing)
-4. Air pollution studies
-5. Government and policy
-6. Citizen science examples
+    + Pesticide drift 
+    + Wildfire smoke
+4. Citizen science examples
+5. Air pollution studies
+6. Government and policy
 
 Sources and Receptors
 ========================================================
@@ -39,6 +40,23 @@ Sources and Receptors
 \fontsize{5pt}{5}\selectfont
 Massachusetts Evironmental Public Health Tracking. Exposures. 
 https://matracking.ehs.state.ma.us/Environmental-Data/exposures/index.html
+\end{center}
+
+Exposure Route
+========================================================
+
++ Exposure route = how a contaminant enters receptor
+    + Dermal contact
+    + Ingestion
+    + Inhalation
+
++ Exposure pathway = source + medium + exposure route
+
+\begin{center}
+\includegraphics[height=5cm]{~/airpollution-stkates/images/routesofexposure.png}
+
+\fontsize{5pt}{5}\selectfont
+Damalas C. 2016. Farmers’ Exposure to Pesticides: Toxicity Types and Ways of Prevention. Open Access Toxics 2016, 4(1): 1.
 \end{center}
 
 Air Pollution Sources
@@ -53,19 +71,23 @@ Scotland's Environment. Air quality.
 https://www.environment.gov.scot/our-environment/air/air-quality/
 \end{center}
 
-Sources, Pollutants, and Receptors
+Exposure Pathway
 ========================================================
 + Sources
     + Natural: volcanic eruptions, wildfires, allergens
     + Human: energy use, agriculture
 + Pollutants
     + Primary: hazardous substance emitted directly into atmosphere 
-        + CO, NO~x~, SO~2~, PM, NH~3~, VOCs, Pb
-    + Secondary: hazardous substance formed after reacting with something in atmosphere
-        + SO~3~, HNO~3~, H~2~SO~4~, H~2~O~2~, NH~4~, O~3~, PM, HF
-+ Receptors
-    + Humans
-    + Animals
+        + CO    - gas, coal, or wood combustion
+        + NO~x~ - fossil fuel combustion, e.g. brown haze around cities
+        + SO~2~ - volcanoes and industrial coal combustion
+        + PM    - particulate matter, e.g. fossil fuel combustion, brake dust
+        + NH~3~ - agricultural processes, e.g. fertilizer
+        + VOCs  - volatile organic compounds, e.g. methane, benzene 
+        + Pb    - "anti-knocking" agent formerly added to gasoline
+    + Secondary: hazardous substance formed in atmospheric reaction
+        + O~3~, SO~3~, HNO~3~, H~2~SO~4~, H~2~O~2~, NH~4~, PM, HF
++ Receptors: humans and animals (each pollutant has different health effect)
 
 Meuse Valley Fog, Belgium (1930)
 ========================================================
@@ -79,18 +101,18 @@ The Lancet 357(9257): 704-708.
 
 Meuse Valley Fog, Belgium (1930)
 ========================================================
-+ Source
-    + HF from the nearby zinc, glass, and steel factories
++ Sources
+    + SO~2~, H~2~SO~4~, or HF from nearby zinc, glass, and steel factories
     + Inversion: warm air trapped cool air above town (5 days in Dec)
 + Receptors
     + Asthma-like symptoms: shortness of breath, coughing fits
     + Estimated 60 excess deaths (20-89 years old)
 + Impacts
+    + "An unavoidable consequence of prosperity"
     + Interviewed family physicians and patients days after smog
-    + Spatiotemporal distribution of patients not well understood
     + First proof of link between air pollution and morbidity/mortality
     + Demonstrated role of temperature inversions
-    + "An unavoidable consequence of prosperity"
+    + Spatiotemporal and epidemiological details not well understood
 
 Temperature Inversion
 ========================================================
@@ -113,8 +135,8 @@ https://www.sites.google.com/site/donorahistoricalsociety/1948-smog
 
 Donora, Pennsylvania Smog (1948)
 ========================================================
-+ Source
-    + H~2~SO~4~, NO~2~,  and HF from steel and zinc factories
++ Sources
+    + CO, SO~2~, and H~2~SO~4~ from steel and zinc factories
     + Temperature inversion (5 days in Oct)
 + Receptors
     + About 14,000 residents trapped under thick layer of smog
@@ -122,7 +144,7 @@ Donora, Pennsylvania Smog (1948)
     + Estimated 20 excess deaths
 + Impacts
     + Widely publicized around world and people acted
-    + Scientists began studying link between air pollution and health
+    + Scientists began to study link between air pollution and health
     + ["Smog Museum"](https://www.c-span.org/video/?321395-1/discussion-1948-donora-air-quality-crisis): 70th anniversary events this month
 
 Great Smog of London (1952)
@@ -142,7 +164,7 @@ Great Smog of London (1952)
 + Receptors
     + About 100,000 residents felt ill with respiratory symptoms
     + Estimated 4,000-12,000 excess deaths (e.g. hypoxia resulting from obstruction of air passage by lung infection pus)
-+ Impact
++ Impacts
     + Especially bad "pea-souper" as seen on TV (e.g. *The Crown*)
     + Led to UK Clean Air Act of 1956 (and 1970 in US)
     + "Landmark in air pollution epidemiology because of the scale of the disaster and because it allowed researchers to do the first detailed analysis of the relation between levels of air pollutants and increased morbidity and mortality" [(Nemery et al. 2001)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(00)04135-0/fulltext).
@@ -167,7 +189,7 @@ Photochemical smog in Los Angeles. Getty images.
 
 Los Angeles Smog and Clean Air Act (1970)
 ========================================================
-+ Source
++ Sources
     + 1,000,000+ vehicles on LA roads by 1940
     + VOC emissions + sunlight + NO~x~ -> O~3~ (photochemical smog)
     + LA is natural trap for smog accumulation
@@ -175,9 +197,9 @@ Los Angeles Smog and Clean Air Act (1970)
         + Weather patterns: cold ocean current creates inversions
 + Receptors
     + Respiratory and cardiovascular effects among residents
-    + Crude resipiratory mortality rate was 50.8 per 100,000 in 1961 [(Mahoney 1976)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1130478/?page=3). 
-+ Impact
-    + Clean Air Act of 1970 set federal and state regulations to limit stationary and mobile source emissions
+    + Systematic spatial association between respiratory mortality and increased O~3~ levels in 1961 [(Mahoney 1976)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1130478/?page=3). 
++ Impacts
+    + [Clean Air Act of 1970](https://www.epa.gov/laws-regulations/summary-clean-air-act) set federal and state regulations to limit stationary and mobile source emissions
     + Current O~3~ levels in LA just 40% of mid-1970s levels despite more than twice the number of cars
 
 Beijing "Airpocalypse" (2014)
@@ -191,23 +213,28 @@ Beijing smog vs. no smog. 2014. Getty Images.
 
 Beijing "Airpocalypse" (2014)
 ========================================================
-+ Source
++ Sources
     + PM from burning coal for heat in winter and vehicle traffic
     + Like LA, Beijing in "natural bowl" with temperature inversions
 + Receptors
     + Respiratory and cardiovascular effects among residents
     + [Air Quality Index](https://en.wikipedia.org/wiki/Air_quality_index) can reach >201 [heavily or severely polluted]
-+ Impact
++ Impacts
     + Chinese government uses stricter regulations and cleaner fuels
     + US Embassy posts automated air quality @beijingair
 
-Deaths Attributable to Ambient Air Pollution, 2016
+Deaths Attributable to Ambient Air Pollution (2016)
 ========================================================
 
-![](~/airpollution-stkates/images/airpollution-deaths-2016.PNG)
+![](~/airpollution-stkates/images/airpollution-deaths-2016.png)
 
 \fontsize{5pt}{5}\selectfont
 World Health Organization. Deaths per 100,000 Attributable to Ambient Air Pollution. http://www.who.int/gho/phe/outdoor_air_pollution/burden/en/
+
+Orchards in the Pacific Northwest
+========================================================
+
+\includegraphics{~/airpollution-stkates/images/orchard.jpg}
 
 Washington Pesticide Drift "Newsfeed"
 ========================================================
@@ -229,14 +256,109 @@ Pesticide Drift Definition
 \includegraphics[height=5cm]{~/airpollution-stkates/images/driftdefinition.JPG}
 \end{center}
 
-Pesticide Drift (Ongoing)
+Pesticide Application Before 1880s
 ========================================================
-+ Source
+
+\begin{center}
+
+\includegraphics{~/airpollution-stkates/images/broom.png}
+
+\fontsize{5pt}{5}\selectfont
+Lodeman. 1896. The Spraying of Plants. https://archive.org/details/plantssprayingof00loderich/page/n0
+\end{center}
+
+Pesticide Application After 1880s
+========================================================
+
+\begin{center}
+
+\includegraphics{~/airpollution-stkates/images/fountainpump.png}
+
+\fontsize{5pt}{5}\selectfont
+Lodeman. 1896. The Spraying of Plants. https://archive.org/details/plantssprayingof00loderich/page/n0
+\end{center}
+
+Pesticide Application After 1880s
+========================================================
+
+\begin{center}
+
+\includegraphics{~/airpollution-stkates/images/fountainpumpuse.jpg}
+
+\fontsize{5pt}{5}\selectfont
+Duke University David M. Rubenstein Rare Book and Manuscript Library, 1880s
+\end{center}
+
+Pesticide Application in Early 1900s
+========================================================
+
+\begin{center}
+
+\includegraphics{~/airpollution-stkates/images/sprayersketch.png}
+
+\fontsize{5pt}{5}\selectfont
+Lodeman. 1896. The Spraying of Plants. https://archive.org/details/plantssprayingof00loderich/page/n0
+\end{center}
+
+Pesticide Application in Early 1900s
+========================================================
+
+\begin{center}
+
+\includegraphics{~/airpollution-stkates/images/horsesprayer.jpg}
+
+\fontsize{5pt}{5}\selectfont
+Washington State Horticultural Association Video. 2004. "Celebrating a Century: 100 years of tree fruit in Washington State"
+
+\end{center}
+
+Pesticide Application in 1950s
+========================================================
+
+\begin{center}
+
+\includegraphics{~/airpollution-stkates/images/okanogansprayer.jpg}
+
+\fontsize{5pt}{5}\selectfont
+Steed and Philip, South Australia Department of Agriculture, ca. 1950
+"Original imported Okanagan airblast orchard sprayer at Blackwood Experimental Orchard."
+\end{center}
+
+Traditional Tree Canopies
+========================================================
+
+\begin{center}
+
+\includegraphics{~/airpollution-stkates/images/traditional.png}
+
+\end{center}
+
+Modern Tree Canopies
+========================================================
+
+\begin{center}
+
+\includegraphics{~/airpollution-stkates/images/modern.png}
+
+\end{center}
+
+Orchard Application Technology
+========================================================
+
+\begin{center}
+
+\includegraphics{~/airpollution-stkates/images/spraytech.png}
+
+\end{center}
+
+Pesticide Drift
+========================================================
++ Sources
     + Pesticide applications (aerial and ground applications)
 + Receptors
     + Farmworkers (particularly in orchards)
     + Rural community residents
-+ Impact
++ Impacts
     + [WA DOH Pesticide Illness Surveillance Program](https://www.doh.wa.gov/AboutUs/ProgramsandServices/EnvironmentalPublicHealth/EnvironmentalPublicHealthSciences/Pesticides) has tracked drift cases for 20+ years and makes [data publicly available](https://fortress.wa.gov/doh/wtn/WTNPortal/#!q0=645)
     + Stakeholder workgroups and rulemaking
 
@@ -251,13 +373,13 @@ https://www.nasa.gov/image-feature/goddard/2017/smoke-and-fires-light-up-pacific
 
 \end{center}
 
-West Coast Wildfires (Ongoing)
+West Coast Wildfires
 ========================================================
-+ Source
++ Sources
     + Dry conditions starting wildfires in rural areas
 + Receptors
     + Rural and urban communities (West Coast)
-+ Impact
++ Impacts
     + Seattle's air quality lower than Beijing's for most of August 2018
     + [Indoor Air Quality & "DIY" HEPA Filter](https://github.com/eddiekasner/seattle-airpocalypse/blob/master/seattle-airpocalypse.pdf)
 
@@ -306,6 +428,7 @@ Air Pollution Studies
     + Mortality
     + Respiratory infection/lung cancer
     + Cardiovascular disease/stroke/COPD
+    + Low birthweight
     + Dementia
 
 Government and Policy
@@ -320,6 +443,20 @@ Government and Policy
 4. US EPA Worker Protection Standard and pesticide drift
     + Pesticide labels require that applications happen under certain conditions (e.g. wind, temperature)
     + [Application Exclusion Zone](https://www.epa.gov/pesticide-worker-safety/worker-protection-standard-and-application-exclusion-zone-frequently-asked): buffer to protect workers
+    
+Environmental Justice
+========================================================
+
++ "Fair treatment and meaningful involvement of all people regardless of race, color, national origin, or income with respect to the development, implementation, and enforcement of environmental laws, regulations, and policies" [(USEPA Definition)](https://www.epa.gov/environmentaljustice).
+
++ Greatest air pollution burden has been on vulnerable populations
+    + Need to find solutions with these groups in mind [(CA examples)](https://ww2.arb.ca.gov/research/research-environmental-justice)
+    + Citizen science can be leveraged by these groups
+    + Countries with rapid industrialization need time to control
+    
++ Success stories
+    + Technology has eliminated Pb in gas, introduced scrubbers and PPE masks
+    + Legislation has driven positive results in London and Los Angeles; Beijing will follow
 
 References
 ========================================================
@@ -333,3 +470,4 @@ References
 6. [Fluoride Pollution of Atmospheric Precipitation and Its Relationship with Air Circulation and Weather Patterns (Wielkopolski National Park, Poland)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3667360/)
 7. [Exposure Assessment for Estimation of the Global Burden of Disease Attributable to Outdoor Air Pollution](https://pubs.acs.org/doi/abs/10.1021/es2025752)
 8. [Association Between Air Pollution and Coronary Artery Calcification within Six metropolitan Areas in the USA (The Multi-Ethnic Study of Atherosclerosis and Air Pollution): A Longitudinal Cohort Study (2016)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)00378-0/fulltext)
+9. [Air Pollution: Its Impact on Health and Possible Solutions (2018)](https://www.gresham.ac.uk/lectures-and-events/air-pollution-its-impact-on-health-and-possible-solutions)
